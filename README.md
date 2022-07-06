@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on AppWorks School.
+- 💬 Ask me about AWS and container.
+- 📫 How to reach me: open an issue 
+
 <!--
 **azole/azole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
